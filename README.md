@@ -17,9 +17,8 @@ The research proposal should be finished before the end of Feburary.
 ### Overview Papers
 
 1. (2018 Applied Soft Computing) **Analyzing the performance of classical consensus models in large scale group decision making: A comparative study.**
-   _Á. Labella, Y. Liu, R.M. Rodríguez, L. Martínez_.
-   [[web]([https://arxiv.org/pdf/2106.02359.pdf](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101))]
-
+   _Á. Labella, Y. Liu, R.M. Rodríguez, L. Martínez_.[[Web](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101)]
+2. 
 ## Q1: Can we use NLP to **save** lifes?
 
 ### 1.1 NLP for healthcare (with EHRs)
