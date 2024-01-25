@@ -17,8 +17,15 @@ The research proposal should be finished before the end of Feburary.
 ### Overview Papers
 
 1. (2018 Applied Soft Computing) **Analyzing the performance of classical consensus models in large scale group decision making: A comparative study.**
-   _Á. Labella, Y. Liu, R.M. Rodríguez, L. Martínez_. [[Web](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101)]
+   _Labella, Á., Liu, Y., Rodríguez, R. M., & Martínez, L_. [[Web](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101)]
 2. 
-## Q1: Can we use NLP to **save** lifes?
+## Q1: What is Agenda Building Theory?
 
-### 1.1 NLP for healthcare (with EHRs)
+### 1.1 Applications in socio-political communications
+
+1. (2020 Journal of Public Relations Research) **President Trump vs. CEOs: a comparison of presidential and corporate agenda building.**
+   _Lan, X., Tarasevich, S., Proverbs, P., Myslik, B., & Kiousis_. [[Web](https://www.tandfonline.com/doi/full/10.1080/1062726X.2020.1719494)]
+
+## Q2: How can we extract agendas from social media posts?
+
+### 2.1 Topic Modeling
