@@ -13,7 +13,7 @@ This is a reading list of papers on NLP for Social Good.
 ## Meta-Info
 
 ### Events and News
-
+The research proposal should be finished before the end of Feburary.
 ### Overview Papers
 
 1. (2021 ACL Findings) **How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact.**
