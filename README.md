@@ -23,17 +23,16 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 The research proposal should be finished before the end of Feburary.
 ### Overview Papers
 
-1. (2018 Applied Soft Computing) **Analyzing the performance of classical consensus models in large scale group decision making: A comparative study.**
-   _Labella, Á., Liu, Y., Rodríguez, R. M., & Martínez, L_. [[Web](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101)]
+1. (2018 Applied Soft Computing) **Analyzing the performance of classical consensus models in large scale group decision making: A comparative study.** _Labella, Á., Liu, Y., Rodríguez, R. M., & Martínez, L_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101)]
 
 
 ## Q1: What is Agenda Building Theory?
 
 ### 1.1 Applications in socio-political communications
 
-1. (2020 Journal of Public Relations Research) **President Trump vs. CEOs: a comparison of presidential and corporate agenda building.**
-   _Lan, X., Tarasevich, S., Proverbs, P., Myslik, B., & Kiousis_. [[Web](https://www.tandfonline.com/doi/full/10.1080/1062726X.2020.1719494)]
+1. (2020 Journal of Public Relations Research) **President Trump vs. CEOs: a comparison of presidential and corporate agenda building.** _Lan, X., Tarasevich, S., Proverbs, P., Myslik, B., & Kiousis_. [[web](https://www.tandfonline.com/doi/full/10.1080/1062726X.2020.1719494)]
 
 ## Q2: How can we extract agendas from social media posts?
 
 ### 2.1 Topic Modeling
+1. (2022 Computation and Language) **BERTopic: Neural topic modeling with a class-based TF-IDF procedure.** _Grootendorst, M_. [[pdf](https://arxiv.org/pdf/2203.05794.pdf)]
