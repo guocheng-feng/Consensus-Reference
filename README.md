@@ -1,6 +1,6 @@
 # An Extensive Paper List (and Various Resources) on *Consensus Measurement for Social Meida Groups*
 
-This is a reading list of papers on NLP for Social Good.
+This is a reading list of papers on Consensus Measurement among Social Meida Groups.
 
 ### Contents (Actively Updating)
 
