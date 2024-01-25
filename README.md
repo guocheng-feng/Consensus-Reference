@@ -16,8 +16,12 @@ This is a reading list of papers on NLP for Social Good.
 The research proposal should be finished before the end of Feburary.
 ### Overview Papers
 
-1. (2021 ACL Findings) **How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact.**
-   _Zhijing Jin, Geeticka Chauhan, Brian Tse, Mrinmaya Sachan, Rada Mihalcea_.
+1. (2018 Applied Soft Computing) **Analyzing the performance of classical consensus models in large scale group decision making: A comparative study.**
+   _Á. Labella a, Y. Liu a c, R.M. Rodríguez b, L. Martínez a d_.
    [[pdf](https://arxiv.org/pdf/2106.02359.pdf)]
 
 2. (2020 ACL) **Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?.** *Kobi Leins, Jey Han Lau, Timothy Baldwin.* [[pdf](https://www.aclweb.org/anthology/2020.acl-main.261.pdf)]
+
+## Q1: Can we use NLP to **save** lifes?
+
+### 1.1 NLP for healthcare (with EHRs)
