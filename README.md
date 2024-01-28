@@ -35,5 +35,5 @@ The research proposal should be finished before the end of Feburary.
 ## Q2: How can we extract agendas from social media posts?
 
 ### 2.1 Topic Modeling
-1. (2020 Information Systems) **A review of topic modeling methods** _Vayansky, I., Kumar, S._ 
+1. (2020 Information Systems) **A review of topic modeling methods.** _Vayansky, I., Kumar, S_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300703)] 
 2. (2022 Computation and Language) **BERTopic: Neural topic modeling with a class-based TF-IDF procedure.** _Grootendorst, M_. [[pdf](https://arxiv.org/pdf/2203.05794.pdf)]
