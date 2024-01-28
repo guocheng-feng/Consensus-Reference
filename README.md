@@ -35,6 +35,7 @@ The research proposal should be finished before the end of Feburary.
 ## Q2: How can we extract agendas from social media posts?
 
 ### 2.1 Topic Modeling
-1. (2020 Information Systems) **A review of topic modeling methods.** _Vayansky, I., Kumar, S_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300703)] 
-2. (2022 Computation and Language) **BERTopic: Neural topic modeling with a class-based TF-IDF procedure.** _Grootendorst, M_. [[pdf](https://arxiv.org/pdf/2203.05794.pdf)]
-3. (2018 PyData NYC) **HDBSCAN, Fast Density Based Clustering, the How and the Why.** _Healy, J_. [[YouTube](https://www.youtube.com/watch?v=dGsxd67IFiU)]
+1. (2020 Information Systems) **A review of topic modeling methods.** _Vayansky, I., Kumar, S_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300703)]
+2. (2016 IHMSC) **An Overview of Hierarchical Topic Modeling.** _Liu, L., Tang, L., He, L., Zhou, W., & Yao, S._ [[web](https://doi.org/10.1109/IHMSC.2016.101)]
+3. (2022 Computation and Language) **BERTopic: Neural topic modeling with a class-based TF-IDF procedure.** _Grootendorst, M_. [[pdf](https://arxiv.org/pdf/2203.05794.pdf)]
+4. (2018 PyData NYC) **HDBSCAN, Fast Density Based Clustering, the How and the Why.** _Healy, J_. [[YouTube](https://www.youtube.com/watch?v=dGsxd67IFiU)]
