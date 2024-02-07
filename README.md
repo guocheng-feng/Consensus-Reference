@@ -21,6 +21,7 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
 ### Events and News
 The research proposal should be finished before the end of Feburary.
+
 ### Overview Papers
 
 1. (2018 Applied Soft Computing) **Analyzing the performance of classical consensus models in large scale group decision making: A comparative study.** _Labella, Á., Liu, Y., Rodríguez, R. M., & Martínez, L_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101)]
