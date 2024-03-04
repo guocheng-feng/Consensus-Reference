@@ -7,15 +7,19 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 (Hyperlinks works in Chrome/Firefox/etc, and new versions of Safari.)
 
 - [Meta-Info](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#meta-info)
+
   - [Events and News](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#events-and-news)
+
   - [Overview Papers](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#overview-papers)
 
 - [Q1: What is **Agenda Building Theory**?](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#q1-what-is-agenda-building-theory)
+
   - [1.1 Basic Concept of Agenda Building](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#11-basic-concept-of-agenda-building)
 
   - [1.2 Applications in socio-political communications](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#12-applications-in-socio-political-communications)
  
 - [Q2: How can we extract **agendas** from social media posts?](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#q2-how-can-we-extract-agendas-from-social-media-posts)
+
   - [2.1 Topic Modeling](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#21-topic-modeling)
 
 
@@ -33,6 +37,7 @@ The research proposal should be finished before the end of Feburary.
 ## Q1: What is Agenda Building Theory?
 
 ### 1.1 Basic Concept of Agenda Building
+
 1. (2013 The Handbook of Communication and Corporate Reputation) **Agenda-Building and Agenda-Setting Theory: Which Companies We Think About and How We Think About Them.** _Ragas, M_. [[web](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118335529.ch15)]
 
 ### 1.2 Applications in socio-political communications
@@ -42,7 +47,11 @@ The research proposal should be finished before the end of Feburary.
 ## Q2: How can we extract agendas from social media posts?
 
 ### 2.1 Topic Modeling
+
 1. (2020 Information Systems) **A review of topic modeling methods.** _Vayansky, I., Kumar, S_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300703)]
+
 2. (2016 IHMSC) **An Overview of Hierarchical Topic Modeling.** _Liu, L., Tang, L., He, L., Zhou, W., & Yao, S._ [[web](https://doi.org/10.1109/IHMSC.2016.101)]
+
 3. (2022 Computation and Language) **BERTopic: Neural topic modeling with a class-based TF-IDF procedure.** _Grootendorst, M_. [[pdf](https://arxiv.org/pdf/2203.05794.pdf)]
+
 4. (2018 PyData NYC) **HDBSCAN, Fast Density Based Clustering, the How and the Why.** _Healy, J_. [[YouTube](https://www.youtube.com/watch?v=dGsxd67IFiU)]
