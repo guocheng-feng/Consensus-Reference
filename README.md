@@ -14,7 +14,7 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
 - [Q1: What is **Agenda Building Theory**?](#q1-what-is-agenda-building-theory)
 
-  - [1.1 Basic Concept of Agenda Building](#11-basic-concept-of-agenda-building)
+  - [1.1 Theoretical Foundation of Agenda Building](#11-theoretical-foundation-of-agenda-building)
 
   - [1.2 Applications in socio-political communications](#12-applications-in-socio-political-communications)
  
@@ -36,7 +36,7 @@ The research proposal should be finished before the end of Feburary.
 
 ## Q1: What is Agenda Building Theory?
 
-### 1.1 Basic Concept of Agenda Building
+### 1.1 Theoretical Foundation of Agenda Building
 
 1. (2013 The Handbook of Communication and Corporate Reputation) **Agenda-Building and Agenda-Setting Theory: Which Companies We Think About and How We Think About Them.** _Ragas, M_. [[web](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118335529.ch15)]
 
