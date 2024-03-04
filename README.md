@@ -6,21 +6,21 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
 (Hyperlinks works in Chrome/Firefox/etc, and new versions of Safari.)
 
-- [Meta-Info](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#meta-info)
+- [Meta-Info](#meta-info)
 
-  - [Events and News](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#events-and-news)
+  - [Events and News](#events-and-news)
 
-  - [Overview Papers](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#overview-papers)
+  - [Overview Papers](#overview-papers)
 
-- [Q1: What is **Agenda Building Theory**?](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#q1-what-is-agenda-building-theory)
+- [Q1: What is **Agenda Building Theory**?](#q1-what-is-agenda-building-theory)
 
-  - [1.1 Basic Concept of Agenda Building](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#11-basic-concept-of-agenda-building)
+  - [1.1 Basic Concept of Agenda Building](#11-basic-concept-of-agenda-building)
 
-  - [1.2 Applications in socio-political communications](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#12-applications-in-socio-political-communications)
+  - [1.2 Applications in socio-political communications](#12-applications-in-socio-political-communications)
  
-- [Q2: How can we extract **agendas** from social media posts?](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#q2-how-can-we-extract-agendas-from-social-media-posts)
+- [Q2: How can we extract **agendas** from social media posts?](#q2-how-can-we-extract-agendas-from-social-media-posts)
 
-  - [2.1 Topic Modeling](https://github.com/guocheng-feng/Consensus-Reference/blob/main/README.md#21-topic-modeling)
+  - [2.1 Topic Modeling](#21-topic-modeling)
 
 
 ## Meta-Info
