@@ -18,7 +18,7 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
   - [1.2 Applications in socio-political communications](#12-applications-in-socio-political-communications)
 
-- [Q2: The role of consensus in measuring agenda setting effects?](#q2-the-role-of-consensus-in-measuring-agenda-setting-effects)
+- [Q2: **The role of consensus** in measuring agenda setting effects?](#q2-the-role-of-consensus-in-measuring-agenda-setting-effects)
 
   - [2.1 Consensus Models & Methodologies](#21-concensus-models--methodologies)
 
