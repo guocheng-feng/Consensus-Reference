@@ -20,7 +20,9 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
 - [Q2: How can we extract **agendas** from social media posts?](#q2-how-can-we-extract-agendas-from-social-media-posts)
 
-  - [2.1 Consensus Models & Methodologies](#21-concensus-models-%26-methodologies)
+  - [2.1 Consensus Models & Methodologies](#21-concensus-models--methodologies)
+
+  - [2.2 Applications of Consensus within Communication Studies](#22-applications-of-consensus-within-communication-studies)
  
 - [Q3: How can we extract **agendas** from social media posts?](#q3-how-can-we-extract-agendas-from-social-media-posts)
 
@@ -61,11 +63,15 @@ Cohen’s [[published in 1963](https://press.princeton.edu/books/hardcover/97806
 
 1. (2020 Journal of Public Relations Research) **President Trump vs. CEOs: a comparison of presidential and corporate agenda building.** _Lan, X., Tarasevich, S., Proverbs, P., Myslik, B., & Kiousis_. [[web](https://www.tandfonline.com/doi/full/10.1080/1062726X.2020.1719494)]
 
-## Q2: How can we extract agendas from social media posts?
+## Q2: How to use consensus in gauging agenda setting effects ?
 
 ### 2.1 Concensus Models & Methodologies
 
-### 2.2 
+1. (2018 Applied Soft Computing) **Analyzing the performance of classical consensus models in large scale group decision making: A comparative study.** _Labella, Á., Liu, Y., Rodríguez, R. M., & Martínez, L_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101)]
+
+### 2.2 Applications of Consensus within Communication Studies
+
+1. (2022 Media Watch) **News Media Exposure and Community Consensus on Terrorism in a Developing Country: First and Second Level Agenda-Setting Effects.** _Yousaf, M., Hu, Z., & Raza, S. H._ [[web](https://journals.sagepub.com/doi/10.1177/09760911221130818)]
 
 ## Q3: How can we extract agendas from social media posts?
 
