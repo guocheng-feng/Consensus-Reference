@@ -18,7 +18,7 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
   - [1.2 Applications in socio-political communications](#12-applications-in-socio-political-communications)
 
-- [Q2: How can we extract **agendas** from social media posts?](#q2-how-can-we-extract-agendas-from-social-media-posts)
+- [Q2: How to use consensus in gauging agenda setting effects?](#q2-how-to-use-consensus-in-gauging-agenda-setting-effects)
 
   - [2.1 Consensus Models & Methodologies](#21-concensus-models--methodologies)
 
