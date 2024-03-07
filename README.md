@@ -18,7 +18,7 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
   - [1.2 Applications in socio-political communications](#12-applications-in-socio-political-communications)
 
-- [Q2: How to use consensus in gauging agenda setting effects?](#q2-how-to-use-consensus-in-gauging-agenda-setting-effects)
+- [Q2: The role of consensus in measuring agenda setting effects ?](#q2-the-role-of-consensus-in-measuring-agenda-setting-effects)
 
   - [2.1 Consensus Models & Methodologies](#21-concensus-models--methodologies)
 
@@ -63,7 +63,7 @@ Cohen’s [[published in 1963](https://press.princeton.edu/books/hardcover/97806
 
 1. (2020 Journal of Public Relations Research) **President Trump vs. CEOs: a comparison of presidential and corporate agenda building.** _Lan, X., Tarasevich, S., Proverbs, P., Myslik, B., & Kiousis_. [[web](https://www.tandfonline.com/doi/full/10.1080/1062726X.2020.1719494)]
 
-## Q2: How to use consensus in gauging agenda setting effects ?
+## Q2: The role of consensus in measuring agenda setting effects ?
 
 ### 2.1 Concensus Models & Methodologies
 
