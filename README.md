@@ -32,7 +32,7 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
   - [4.1 Sentiment Analysis](#41-sentiment-analysis)
 
-- [Q5: How can we automate the investigation in correspondence between agenda-setting and consensus among subgroups in social media?](#q5-how-can-we-automate-the-investigation-in-correspondence-between-agenda-setting-and-consensus-among-subgroups-in-social-media)
+- [Q5: How to automate the investigation process?](#q5-how-to-automate-the-investigation-process)
 
   - [5.1 nil](#51-nil)
 
@@ -99,6 +99,6 @@ Specifically, the **first level of agenda** setting concerns with "who and what 
 
 ### 4.1 Sentiment Analysis
 
-## Q5: How can we automate the investigation in correspondence between agenda-setting and consensus among subgroups in social media?
+## Q5: How to automate the investigation process?
 
 ### 5.1 nil
