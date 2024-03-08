@@ -28,6 +28,14 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
   - [3.1 Topic Modeling](#31-topic-modeling)
 
+- [Q4: What are the attributes of interest of our agendas?](#q4-what-are-the-attributes-of-interest-of-our-agendas)
+
+  - [4.1 Sentiment Analysis](#41-sentiment-analysis)
+
+- [Q5: How can we automate the investigation in correspondence between agenda-setting and consensus among subgroups in social media?](#q5-how-can-we-automate-the-investigation-in-correspondence-between-agenda-setting-and-consensus-among-subgroups-in-social-media)
+
+  - [5.1 nil](#51-nil)
+
 
 ## Meta-Info
 
@@ -42,7 +50,9 @@ The research proposal should be finished before the end of Feburary.
 
 ## Q1: What is Agenda Building Theory?
 
-Cohen’s [[published in 1963](https://press.princeton.edu/books/hardcover/9780691651156/press-and-foreign-policy)] classic dictum, “the media may not be successful much of the time in telling people what to think, but it is stunningly successful in telling its readers what to think about,” (p. 13) is helpful in understanding what contemporary agenda-setting researchers have termed first- and second-level agenda- setting effects (McCombs et al., 1997, 2000).
+Cohen’s [[published in 1963](https://press.princeton.edu/books/hardcover/9780691651156/press-and-foreign-policy)] classic dictum, “the media may not be successful much of the time in telling people what to think, but it is stunningly successful in telling its readers what to think about,” (p. 13) is helpful in understanding what contemporary agenda-setting researchers have termed first- and second-level agenda-setting effects (McCombs et al., 1997, 2000).
+
+Specifically, the **first level of agenda** setting concerns with "who and what people are thinking about", while the **second level agenda** focuces on "how people think about them" (i.e., attributes of certain topics, such as integrity of a presidential candidate).
 
 ### 1.1 Theoretical Foundation of Agenda Building
 
@@ -84,3 +94,11 @@ Cohen’s [[published in 1963](https://press.princeton.edu/books/hardcover/97806
 3. (2022 Computation and Language) **BERTopic: Neural topic modeling with a class-based TF-IDF procedure.** _Grootendorst, M_. [[pdf](https://arxiv.org/pdf/2203.05794.pdf)]
 
 4. (2018 PyData NYC) **HDBSCAN, Fast Density Based Clustering, the How and the Why.** _Healy, J_. [[YouTube](https://www.youtube.com/watch?v=dGsxd67IFiU)]
+
+## Q4: What are the attributes of interest of our agendas?
+
+### 4.1 Sentiment Analysis
+
+## Q5: How can we automate the investigation in correspondence between agenda-setting and consensus among subgroups in social media?
+
+### 5.1 nil
