@@ -26,7 +26,8 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
  
 - [Q3: How can we extract **agendas** from social media posts?](#q3-how-can-we-extract-agendas-from-social-media-posts)
 
-  - [3.1 Topic Modeling](#31-topic-modeling)
+  - [3.1 Word Representations](#31-word-representations)
+  - [3.2 Topic Modeling](#32-topic-modeling)
 
 - [Q4: What are the attributes of interest of our agendas?](#q4-what-are-the-attributes-of-interest-of-our-agendas)
 
@@ -85,7 +86,12 @@ Specifically, the **first level of agenda** setting concerns with "who and what 
 
 ## Q3: How can we extract agendas from social media posts?
 
-### 3.1 Topic Modeling
+### 3.1 Word Representations
+
+1. (2021 Computational and Mathematical Organization Theory) **Word embedding analysis on colonial history, present issues, and optimism toward the future in Senegal** _Lee, K., Braithwaite, J., & Atchikpa, M._ [[web](https://link.springer.com/article/10.1007/s10588-021-09335-y)]
+
+
+### 3.2 Topic Modeling
 
 1. (2020 Information Systems) **A review of topic modeling methods.** _Vayansky, I., Kumar, S_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300703)]
 
