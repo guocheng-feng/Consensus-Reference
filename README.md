@@ -51,7 +51,7 @@ Move fast.
 1. (2018 Applied Soft Computing) **Analyzing the performance of classical consensus models in large scale group decision making: A comparative study.** _Labella, Á., Liu, Y., Rodríguez, R. M., & Martínez, L_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101)]
 
 ### Data Sets
-1. (2020 NLP-COVID19) **Weibo-COV: A Large-Scale COVID-19 Social Media Dataset from Weibo** _Hu, Y., Huang, H., Chen, A., Mao, X._ [[web](https://aclanthology.org/2020.nlpcovid19-2.34.pdf)], [[github](https://github.com/nghuyong/weibo-cov)]
+1. (2020 NLP-COVID19) **Weibo-COV: A Large-Scale COVID-19 Social Media Dataset from Weibo** _Hu, Y., Huang, H., Chen, A., Mao, X._ [[web](https://aclanthology.org/2020.nlpcovid19-2.34.pdf)] [[github](https://github.com/nghuyong/weibo-cov)]
 
 ## Q1: What is Agenda Building Theory?
 
