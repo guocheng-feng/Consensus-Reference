@@ -12,6 +12,8 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
   - [Overview Papers](#overview-papers)
 
+  - [Data Sets](#data-sets)
+
 - [Q1: What is **Agenda Building Theory**?](#q1-what-is-agenda-building-theory)
 
   - [1.1 Theoretical Foundation of Agenda Building](#11-theoretical-foundation-of-agenda-building)
@@ -42,12 +44,14 @@ This is a reading list of papers on Consensus Measurement among Social Meida Gro
 
 ### Events and News
 
-The research proposal should be finished before the end of Feburary.
+Move fast.
 
 ### Overview Papers
 
 1. (2018 Applied Soft Computing) **Analyzing the performance of classical consensus models in large scale group decision making: A comparative study.** _Labella, Á., Liu, Y., Rodríguez, R. M., & Martínez, L_. [[web](https://www.sciencedirect.com/science/article/abs/pii/S1568494617303101)]
 
+### Data Sets
+1. (2020 NLP-COVID19) **Weibo-COV: A Large-Scale COVID-19 Social Media Dataset from Weibo** _Hu, Y., Huang, H., Chen, A., Mao, X._ [[web](https://aclanthology.org/2020.nlpcovid19-2.34.pdf)], [[github](https://github.com/nghuyong/weibo-cov)]
 
 ## Q1: What is Agenda Building Theory?
 
@@ -85,6 +89,7 @@ Specifically, the **first level of agenda** setting concerns with "who and what 
 1. (2022 Media Watch) **News Media Exposure and Community Consensus on Terrorism in a Developing Country: First and Second Level Agenda-Setting Effects.** _Yousaf, M., Hu, Z., & Raza, S. H._ [[web](https://journals.sagepub.com/doi/10.1177/09760911221130818)]
 
 ## Q3: How can we extract agendas from social media posts?
+In **The Gutenberg Galaxy: The Making of Typographic Man [[1962](https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy)]**, Marshall McLuhan proclaimed that “The new electronic interdependence recreates the world in the image of a global village”. 
 
 ### 3.1 Word Representations
 
